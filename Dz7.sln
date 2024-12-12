@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задания", "Задания\Задания.csproj", "{9BA6B7A7-3365-4040-BFB5-D92896E46764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тумаков", "Тумаков\Тумаков.csproj", "{6A1EF30F-EAF1-4E89-AC73-693757DA94E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA6B7A7-3365-4040-BFB5-D92896E46764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA6B7A7-3365-4040-BFB5-D92896E46764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA6B7A7-3365-4040-BFB5-D92896E46764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA6B7A7-3365-4040-BFB5-D92896E46764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1EF30F-EAF1-4E89-AC73-693757DA94E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1EF30F-EAF1-4E89-AC73-693757DA94E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1EF30F-EAF1-4E89-AC73-693757DA94E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1EF30F-EAF1-4E89-AC73-693757DA94E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
