@@ -232,12 +232,12 @@ namespace Tumakov
 
         static void Main()
         {
-            //Task1();
-            //string str;
-            //Console.WriteLine(Task2(out str));
-            //Task3();
-            //Task4();
-            //Task5();
+            Task1();
+            string str;
+            Console.WriteLine(Task2(out str));
+            Task3();
+            Task4();
+            Task5();
             Task6();
         }
     }
